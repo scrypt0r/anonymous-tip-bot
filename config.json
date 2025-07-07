@@ -1,0 +1,15 @@
+{
+	"appId": "",
+	"token": "",
+	"tipModeratorIds": [
+		"",
+		""
+	],
+	"tipChannelId": "",
+	"tipLogChannelId": "",
+	"tipInterval": -1,
+	"tipAdderIds": [
+		"",
+		""
+	]
+}
